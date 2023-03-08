@@ -4,7 +4,7 @@ Syntax: gridlabd find INPUT.{csv,glm,json} SPEC [-o|--output=OUTPUT.{csv,glm,jso
 
 Installation:
 
-	$ curl -sL https://rawusercontent.github.com/slacgismo/gridlabd-utilities/main/install.sh | sh
+	$ curl -sL https://raw.githubusercontent.github.com/slacgismo/gridlabd-utilities/main/install.sh | sh
 	$ gridlabd utility get find
 
 Examples:
